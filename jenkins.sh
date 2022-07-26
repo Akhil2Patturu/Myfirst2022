@@ -1,1 +1,1 @@
-hellow, this is the jenkins testing file for githubwebhook
+echo "hellow, this is the jenkins testing file for githubwebhook"
